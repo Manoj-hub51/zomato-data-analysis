@@ -77,10 +77,6 @@ The Power BI dashboard includes:
 
 ## Zomato Sales Analysis Dashboard
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manoj-hub51/zomato-data-analysis/main/zomato_dashboard_preview.png" width="100%">
-</p>
-
 Click image to view full size:
 [Open Full Dashboard Image](https://raw.githubusercontent.com/Manoj-hub51/zomato-data-analysis/main/zomato_dashboard_preview.png)
 
