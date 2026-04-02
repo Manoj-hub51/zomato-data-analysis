@@ -75,13 +75,16 @@ The Power BI dashboard includes:
 - Online delivery vs table booking comparison  
 - Time-based restaurant opening trends
 
-## Zomato Sales Analysis Dashboard
+##  Dashboard Preview
 
-Click image to view full size:
-[Open Full Dashboard Image](https://raw.githubusercontent.com/Manoj-hub51/zomato-data-analysis/main/zomato_dashboard_preview.png)
+### 🔹 Power BI Dashboard
+![Power BI Dashboard](visuals/Power_BI_Dashboard.png)
 
- Power BI File: 
-[Download Power BI Dashboard](https://github.com/Manoj-hub51/zomato-data-analysis/blob/main/zomato_dashboard.pbix)
+### 🔹 Tableau Dashboard
+![Tableau Dashboard](visuals/Tableau_Dashboard.png)
+
+### 🔹 Excel Dashboard
+![Excel Dashboard](visuals/Excel_Dashboard.png)
 
 ---
 
