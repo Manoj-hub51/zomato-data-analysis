@@ -1,4 +1,4 @@
-# Zomato Data Analysis – SQL & Power BI Project
+# Zomato Data Analysis
 
 ## Project Overview
 
