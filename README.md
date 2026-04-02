@@ -78,13 +78,8 @@ The Power BI dashboard includes:
 ##  Dashboard Preview
 
 ### 🔹 Power BI Dashboard
-![Power BI Dashboard](visuals/Power_BI_Dashboard.png)
+![Power BI Dashboard](https://raw.githubusercontent.com/Manoj-hub51/zomato-data-analysis/main/visuals/Power_BI_Dashboard.png)
 
-### 🔹 Tableau Dashboard
-![Tableau Dashboard](visuals/Tableau_Dashboard.png)
-
-### 🔹 Excel Dashboard
-![Excel Dashboard](visuals/Excel_Dashboard.png)
 
 ---
 
